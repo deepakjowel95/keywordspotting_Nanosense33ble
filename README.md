@@ -4,6 +4,7 @@ Create a keyword spotting system to recognise speech and provide an output on le
 # Instruments/devices required
 • Arduino Nano Sense 33 BLE
 • Arduino Nano Sheild(not mandatory, but is useful as it provides structural/protective support to the MCU )
+
 •These can be purchased from the Arduino website for which the links have been given below:-
   
   Arduino Nano 33 BLE Sense with header(preffered):-  https://store.arduino.cc/usa/nano-33-ble-sense-with-headers?queryID=undefined
