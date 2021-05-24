@@ -19,15 +19,15 @@ Create a keyword spotting system to recognise speech and provide an output on le
   # Software and IDE specificaton
   • Arduino IDE
   
-  • Libraries required to work with Arduino Nano 33 BLE to be installe:-
+  • Libraries required to work with Arduino Nano 33 BLE to be installed:-
   
-  • ArduinoBLE  
+    • ArduinoBLE  
   
-  • Arduino_APDS9960
+    • Arduino_APDS9960
   
-  • Arduino_LSM9DS1
+    • Arduino_LSM9DS1
   
-  • Arduino_ TensorFlowlite
+    • Arduino_ TensorFlowlite
   
   
 
