@@ -14,7 +14,7 @@ Create a keyword spotting system to recognise speech and provide an output on le
   
   Arduino Nano 33 BLE shield (not mandatory):- https://store.arduino.cc/usa/gravity-shield-arduino-nano
   
-  A hobbyist kit an be purchased:- https://store.arduino.cc/usa/tiny-machine-learning-kit
+  A hobbyist kit can be purchased:- https://store.arduino.cc/usa/tiny-machine-learning-kit
   #
   # Software and IDE specificaton
   • Arduino IDE
