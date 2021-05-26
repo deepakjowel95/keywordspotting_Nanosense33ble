@@ -1,5 +1,5 @@
 # keywordspotting_Nanosense33ble
-Create a keyword spotting system to recognise speech and provide an output on led. This project require a basic understanding of fumdamentals of embedded systems, machine learning and how it can be implemented low power device like MCU and EDGE devices. 
+Create a keyword spotting system to recognise speech and provide an output on led. This project require a basic understanding of fundamentals of embedded systems, machine learning and how it can be implemented low power device like MCU and EDGE devices. 
 #
 # Instruments/devices required
 • Arduino Nano Sense 33 BLE
